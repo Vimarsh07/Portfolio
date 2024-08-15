@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider yarn build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider next build",
     "start": "next start",
     "lint": "next lint"
   },
