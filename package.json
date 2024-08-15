@@ -1,5 +1,5 @@
 {
-  "name": "toshita-portfolio",
+  "name": "vimarsh-portfolio",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider yarn build",
     "start": "next start",
     "lint": "next lint"
   },
