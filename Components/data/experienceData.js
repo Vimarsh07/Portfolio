@@ -2,8 +2,18 @@
 
 
 export const Data = {
+  "Data Scientist at Kauffman Holdings L.L.C": {
+    Duration: "December 2023 - Present",
+    points: [
+      "Led the development and maintenance of the company's website and inventory system, ensuring seamless functionality for both retail and wholesale orders.",
+      "Utilized data science tools and techniques to analyze large datasets, providing insights into customer behavior and sales patterns, leading to a 25% increase in revenue.",
+      "Spearheaded the automation of inventory tracking and order processing, reducing manual errors and improving order fulfillment time by 30%.",
+      "Built dynamic dashboards using Tableau and AWS cloud services to provide real-time data access for the management team, optimizing business decisions.",
+      "Continuously optimized website performance and data analytics infrastructure to support company growth and scalability.",
+    ],
+  },
   "Machine Learning Backend Engineer at Blackwins Tech Solution": {
-    Duration: "May 2022 - May 2024",
+    Duration: "May 2022 - May 2023",
     points: [
       "Managed the creation of a scalable web application infrastructure with Python, Node.JS, PostgreSQL, and ReactJS",
       "Directed the establishment of server-side logic, FASTAPIs and RESTful APIs, enhancing communication between frontend and backend components,",

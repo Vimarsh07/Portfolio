@@ -1,6 +1,20 @@
 /** @format */
 
 export const Data = {
+
+   "Data-Driven Sales Forecasting and Inventory Management System":{
+    description: `
+    Gathered and cleaned sales and inventory data from multiple sources including order logs and customer purchase records, ensuring data integrity for accurate analysis.
+    Applied machine learning algorithms like ARIMA and Prophet for time-series forecasting, improving the accuracy of sales predictions by 20%. This helped the company manage inventory levels and reduce the occurrence of stock shortages.
+    Developed a model to determine the optimal reorder point and quantity based on demand fluctuations, reducing excess stock by 15% and minimizing storage costs.
+    Created real-time Tableau dashboards to visualize sales trends, inventory levels, and stock performance metrics, enabling the management team to make informed, data-driven decisions.
+    Automated the reporting process to provide weekly insights into sales performance, product demand, and stock levels, reducing manual reporting time by 30%.`
+
+   },
+
+
+
+
   "Software Control Metric Analysis (Python)": {
     description: `
     Engineered raw datasets with Python libraries (Numpy, Pandas, SkLearn, Matplotlib), enriched them with new features and synthetic samples
