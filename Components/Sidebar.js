@@ -44,7 +44,7 @@ const Sidebar = ({ sideDrawerHandler }) => {
       <div className='my-3 font-Comfortaa flex justify-center rounded mx-24 border-2 border-yellow-100 py-2 font-bold cursor-pointer text-lg hover:text-yellow-100'>
       <a
         target="_blank"
-        href='https://docs.google.com/document/d/1iJaD6VaGs1zdcGeZOHjw6CJqaV8sgyLJP61LQBAVh9c/edit?usp=sharing'
+        href='https://drive.google.com/file/d/10D-o0Lrbtge8JvI-lXhgOAJOsAumEfuJ/view?usp=sharing'
         rel='noreferrer'
         >
         CV

@@ -36,7 +36,7 @@ export const Data = {
   },
 
   "Data Analyst Intern at Meditab": {
-    Duration: "June 2020 - April 2022",
+    Duration: "June 2020 - December 2020",
     points: [
       "Managed and analyzed financial data for healthcare software, ensuring accuracy and data integrity.",
       "Designed plots in Pycharm using Matplotlib",
@@ -46,7 +46,7 @@ export const Data = {
     ],
   },
   "Software Developer - Team Lead at Think Digital": {
-    Duration: "May 2021 - July 2021",
+    Duration: "August 2018 - April 2022",
     points: [
       "Guided a 10-person team of app developers improving project scheduling and task delegation to deliver 8 high-quality applications on schedule, increasing team efficiency by 20%.",
       "Created hybrid mobile-web applications using Angular, NodeJS, MySQL, Firebase",
