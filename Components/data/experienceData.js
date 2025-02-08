@@ -2,8 +2,19 @@
 
 
 export const Data = {
+
+  "Data Analyst at Dow Jones": {
+    Duration: "January 2025 - Present",
+    points: [
+      "Analyzed 8 million+ records using BigQuery SQL like CTE, joins, and subqueries to identify patterns.",
+      "Presented data to non-technical stakeholders using Excel for easy understanding.",
+      "Leveraged data insights to drive strategic decision-making.",
+
+    ],
+  },
+
   "Data Scientist at Kauffman Holdings L.L.C": {
-    Duration: "December 2023 - Present",
+    Duration: "December 2023 - December 2024",
     points: [
       "Led the development and maintenance of the company's website and inventory system, ensuring seamless functionality for both retail and wholesale orders.",
       "Utilized data science tools and techniques to analyze large datasets, providing insights into customer behavior and sales patterns, leading to a 25% increase in revenue.",
@@ -35,8 +46,8 @@ export const Data = {
     ],
   },
 
-  "Data Analyst Intern at Meditab": {
-    Duration: "June 2020 - December 2020",
+  "Data Analyst Intern at Inventriks": {
+    Duration: "June 2020 - December 2021",
     points: [
       "Managed and analyzed financial data for healthcare software, ensuring accuracy and data integrity.",
       "Designed plots in Pycharm using Matplotlib",
