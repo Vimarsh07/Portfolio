@@ -3,36 +3,39 @@
 
 export const Data = {
 
-  "Data Analyst at Dow Jones": {
-    Duration: "January 2025 - Present",
-    points: [
-      "Analyzed 8 million+ records using BigQuery SQL like CTE, joins, and subqueries to identify patterns.",
-      "Presented data to non-technical stakeholders using Excel for easy understanding.",
-      "Leveraged data insights to drive strategic decision-making.",
-
-    ],
+ "Data Analyst at Dow Jones": {
+    "Duration": "January 2025 - Present",
+    "points": [
+      "Analyzed 8M+ records using BigQuery SQL to detect patterns and support AI enhancements.",
+      "Built interactive dashboards with AWS S3 and Excel, reducing reporting turnaround time by 30%.",
+      "Leveraged insights to support AI-driven strategies, contributing to a 15% improvement in key performance metrics."
+    ]
   },
-
   "Data Scientist at Kauffman Holdings L.L.C": {
-    Duration: "December 2023 - December 2024",
-    points: [
-      "Led the development and maintenance of the company's website and inventory system, ensuring seamless functionality for both retail and wholesale orders.",
-      "Utilized data science tools and techniques to analyze large datasets, providing insights into customer behavior and sales patterns, leading to a 25% increase in revenue.",
-      "Spearheaded the automation of inventory tracking and order processing, reducing manual errors and improving order fulfillment time by 30%.",
-      "Built dynamic dashboards using Tableau and AWS cloud services to provide real-time data access for the management team, optimizing business decisions.",
-      "Continuously optimized website performance and data analytics infrastructure to support company growth and scalability.",
-    ],
+    "Duration": "December 2023 - Present",
+    "points": [
+      "Performed EDA on 5M+ records with Python (pandas, seaborn, matplotlib) and SQL, uncovering trends to inform ML strategies.",
+      "Led full-cycle ML development with Python and scikit-learn, deploying segmentation and churn prediction models to boost ROI by 15%.",
+      "Streamlined data pipelines using Apache Airflow and AWS S3, automating 1TB+ processing and reducing manual effort by 25%."
+    ]
   },
-  "Machine Learning Backend Engineer at Blackwins Tech Solution": {
-    Duration: "May 2022 - May 2023",
-    points: [
-      "Managed the creation of a scalable web application infrastructure with Python, Node.JS, PostgreSQL, and ReactJS",
-      "Directed the establishment of server-side logic, FASTAPIs and RESTful APIs, enhancing communication between frontend and backend components,",
-      "Engineered & deployed machine learning pipelines with Python, Spark, AWS.",
-      "Optimized SQL queries boosting efficiency by 50% with join operations and aggregate functions",
-      "Engaged in the full lifecycle of model production, ensuring scalability and automation from training to prediction, to meet customer usage requirements",
-      "Collaborated and communicated with stakeholders with varying technical knowledge daily.",
-    ],
+  "AI Engineer at Inventriks": {
+    "Duration": "May 2023 - December 2023",
+    "points": [
+      "Integrated LLM-based solutions using transformer models to enhance natural language understanding for data insights.",
+      "Leveraged LangChain to build prompt pipelines and implement Retrieval Augmented Generation (RAG) for context-rich retrieval.",
+      "Developed multimodal applications combining text and image data to support advanced analytics.",
+      "Collaborated with teams to fine-tune AI models, enhancing personalization and system performance."
+    ]
+  },
+  "Machine Learning Engineer at Blackwins Tech Solution": {
+    "Duration": "May 2022 - May 2023",
+    "points": [
+      "Designed and deployed ML models for dynamic pricing and customer segmentation using Python, scikit-learn, and TensorFlow, increasing revenue by 12%.",
+      "Optimized real-time data pipelines with Apache Kafka and Spark, processing 100K+ daily transactions, enhancing reliability by 20%.",
+      "Conducted statistical modeling on 1M+ records with pandas and stats models, improving outreach efficiency by 15%.",
+      "Presented AI-driven insights via Tableau and PowerBI, aligning strategies to boost campaign success by 10%."
+    ]
   },
 
   "JP Morgan Chase & Co. Software Engineering Virtual Experience": {
@@ -46,16 +49,16 @@ export const Data = {
     ],
   },
 
-  "Data Analyst Intern at Inventriks": {
-    Duration: "June 2020 - December 2021",
-    points: [
-      "Managed and analyzed financial data for healthcare software, ensuring accuracy and data integrity.",
-      "Designed plots in Pycharm using Matplotlib",
-      "Created detailed reports and visualizations using Excel and Tableau to support decision-making processes.",
-      "Utilized Python and R for data manipulation and model evaluation, significantly boosting analytical capabilities.",
-      "	Conducted extensive data analysis to identify trends and patterns, informing strategic decision-making and model optimization."
-    ],
+  "Software Engineer Intern at Inventriks": {
+    "Duration": "May 2020 - May 2022",
+    "points": [
+      "Developed scalable backend APIs using Node.js and Sequelize for seamless integration with client applications.",
+      "Designed dynamic front-end interfaces using Angular, TypeScript, HTML, CSS, and JavaScript to enhance user experience.",
+      "Managed MS SQL databases, optimizing queries and ensuring data integrity across multiple systems."
+    ]
   },
+
+  
   "Software Developer - Team Lead at Think Digital": {
     Duration: "August 2018 - April 2022",
     points: [
