@@ -2,6 +2,13 @@
 
 export const Data = {
 
+
+  "LLM-Doc-Intel-Assistant": {
+    description: `Built an end-to-end pipeline that ingests PDFs, DOCX and text, splits them into semantic chunks, and orchestrates retrieval & summarization agents—all via LangChain’s modular framework.
+    Leveraged sentence-transformers + ChromaDB PersistentClient for CPU-or GPU-flexible embeddings and sub-second, RAG-powered similarity searches across both unstructured documents and structured data.`,
+    githubLink: "https://github.com/Vimarsh07/LLM-Doc-Intel-Assistant",
+  },
+
   "NLP-Based Sentiment Analysis Platform ":
   {
     description: `
