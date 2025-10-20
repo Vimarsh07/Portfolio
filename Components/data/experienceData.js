@@ -3,38 +3,40 @@
 
 export const Data = {
 
- "Data Analyst at Dow Jones": {
+ "AI Data Analyst at Dow Jones": {
     "Duration": "January 2025 - Present",
     "points": [
-      "Analyzed 8M+ records using BigQuery SQL to detect patterns and support AI enhancements.",
-      "Built interactive dashboards with AWS S3 and Excel, reducing reporting turnaround time by 30%.",
-      "Leveraged insights to support AI-driven strategies, contributing to a 15% improvement in key performance metrics."
+      "Developed and optimized advanced BigQuery SQL queries (nested data, CTEs, window functions) to surface key insights from large-scale datasets (8M+ records), directly influencing AI and product initiatives.",
+      "Automated data transfer pipelines between BigQuery and AWS S3 via Python scripts, establishing audit-ready data flows and reducing processing time by over 30%.",
+      "Performed data integrity and compliance audits to ensure accuracy and legal adherence, proactively identifying potential copyright risks across media assets.",
+      "Created real-time reporting dashboards in Google Sheets using custom formulas and linked data sources, empowering cross-functional teams with self-serve data access and faster decision-cycles."
     ]
   },
   "Data Scientist at Kauffman Holdings L.L.C": {
-    "Duration": "December 2023 - Present",
+    "Duration": "December 2023 - December 2024",
     "points": [
-      "Performed EDA on 5M+ records with Python (pandas, seaborn, matplotlib) and SQL, uncovering trends to inform ML strategies.",
-      "Led full-cycle ML development with Python and scikit-learn, deploying segmentation and churn prediction models to boost ROI by 15%.",
-      "Streamlined data pipelines using Apache Airflow and AWS S3, automating 1TB+ processing and reducing manual effort by 25%."
+      "Engineered ML-driven pricing and forecasting systems (PyTorch, TensorFlow) that delivered a 10% improvement in margins and a 12% increase in forecast accuracy, reducing overstock and understock scenarios.",
+      "Designed and implemented a role-based web application (Admin, Retailer, Customer) built with React, Node.js, TypeScript, and Supabase, providing real-time order management and data analytics dashboards.",
+      "Developed LLM-powered AI Agents using Gemini API and RAG pipelines to automate retailer order placement, assist customers in registration, and answer product/store inquiries through a conversational interface.",
+      "Deployed and scaled the system on GCP, containerizing services and integrating AI pipelines with Supabase backends, ensuring security, scalability, and high availability across user roles."
     ]
   },
-  "AI Engineer at Inventriks": {
+  "Founding AI Engineer at Inventriks": {
     "Duration": "May 2023 - December 2023",
     "points": [
-      "Integrated LLM-based solutions using transformer models to enhance natural language understanding for data insights.",
-      "Leveraged LangChain to build prompt pipelines and implement Retrieval Augmented Generation (RAG) for context-rich retrieval.",
-      "Developed multimodal applications combining text and image data to support advanced analytics.",
-      "Collaborated with teams to fine-tune AI models, enhancing personalization and system performance."
+      "Architected and deployed scalable LLM / RAG systems using LangChain and LangGraph, enabling domain-specific knowledge retrieval, personalized recommendations, and contextual automation.",
+      "Developed multimodal and conversational AI apps that combined text + image understanding, increasing user engagement by 25% and accuracy by 20–30% through fine-tuned transformer models.",
+      "Engineered full-stack AI tools with Angular (TypeScript) front-ends, Node.js + PostgreSQL back-ends, and secure REST APIs hosted on Azure, allowing users to query, visualize, and act on AI-generated insights in real time.",
+      "Set up end-to-end MLOps pipelines (Docker, MLflow, GitHub Actions) for continuous training, testing, and deployment, ensuring reproducibility, scalability, and rapid iteration."
     ]
   },
   "Machine Learning Engineer at Blackwins Tech Solution": {
     "Duration": "May 2022 - May 2023",
     "points": [
-      "Designed and deployed ML models for dynamic pricing and customer segmentation using Python, scikit-learn, and TensorFlow, increasing revenue by 12%.",
-      "Optimized real-time data pipelines with Apache Kafka and Spark, processing 100K+ daily transactions, enhancing reliability by 20%.",
-      "Conducted statistical modeling on 1M+ records with pandas and stats models, improving outreach efficiency by 15%.",
-      "Presented AI-driven insights via Tableau and PowerBI, aligning strategies to boost campaign success by 10%."
+      "Engineered ML-driven recommendation engines and fraud detection models using Python, FastAPI, and Scikit-learn, boosting client operational efficiency by 18% through intelligent automation.",
+      "Designed and implemented scalable data pipelines for ingestion, feature extraction, and real-time inference, enabling consistent performance across large datasets and multiple clients.",
+      "Built and deployed full-stack AI applications using React and Node.js, integrating  REST API  endpoints for serving models and analytics dashboards across web platforms.",
+      "Orchestrated automated MLOps pipelines (Docker, GitHub Actions, cloud deployment) that reduced release cycles by 30% and improved uptime and monitoring by 20% through proactive reliability enhancements."
     ]
   },
 
@@ -49,14 +51,7 @@ export const Data = {
     ],
   },
 
-  "Software Engineer Intern at Inventriks": {
-    "Duration": "May 2020 - May 2022",
-    "points": [
-      "Developed scalable backend APIs using Node.js and Sequelize for seamless integration with client applications.",
-      "Designed dynamic front-end interfaces using Angular, TypeScript, HTML, CSS, and JavaScript to enhance user experience.",
-      "Managed MS SQL databases, optimizing queries and ensuring data integrity across multiple systems."
-    ]
-  },
+ 
 
   
   "Software Developer - Team Lead at Think Digital": {
