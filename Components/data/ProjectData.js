@@ -40,6 +40,16 @@ CashSage is a lightweight, TypeScript-based backend service that ingests bank tr
     githubLink:"https://github.com/Vimarsh07/CashSage"
   },
 
+  "AI Powered Resume Screening Tool": {
+    description: `Developed an AI-powered Resume Screening Tool using Python, FastAPI, and LangChain to streamline the recruitment process.
+
+Implemented NLP techniques and LLMs to analyze and rank resumes based on job descriptions, skills, and experience.
+
+Created a web interface with React for recruiters to easily upload resumes, view candidate rankings, and generate interview questions based on resume content.`,
+    githubLink:
+      "https://github.com/Vimarsh07/Gmail-data",
+  },
+
 
   "LLM-Doc-Intel-Assistant": {
     description: `Built an end-to-end pipeline that ingests PDFs, DOCX and text, splits them into semantic chunks, and orchestrates retrieval & summarization agents—all via LangChain’s modular framework.
