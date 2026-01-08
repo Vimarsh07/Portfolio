@@ -1,6 +1,11 @@
 /** @format */
 
 export const Data = {
+  "Multi-Agent News Impact System for Stock Analysis": {
+    description: `Constructed a multi-agent pipeline ingesting 24-hour financial news, generating embeddings, and detecting semantic similarity across articles. Demonstrated how retrieval-augmented reasoning supports explainable financial insight generation and market signal analysis.`,
+    githubLink: "https://github.com/Vimarsh07/Financial-News-AI-Agent",
+  
+  },
   "Customer Service-Apointment Booking Agent": {
     description: `Role-aware LLM agent (Student/Instructor/Admin) using Azure OpenAI GPT-4o + LangGraph function calling for schedule/reschedule/cancel and payouts/payments.
 
@@ -49,23 +54,7 @@ Created a web interface with React for recruiters to easily upload resumes, view
     githubLink:
       "https://github.com/Vimarsh07/Gmail-data",
   },
-
-
-  "LLM-Doc-Intel-Assistant": {
-    description: `Built an end-to-end pipeline that ingests PDFs, DOCX and text, splits them into semantic chunks, and orchestrates retrieval & summarization agents—all via LangChain’s modular framework.
-    Leveraged sentence-transformers + ChromaDB PersistentClient for CPU-or GPU-flexible embeddings and sub-second, RAG-powered similarity searches across both unstructured documents and structured data.`,
-    githubLink: "https://github.com/Vimarsh07/LLM-Doc-Intel-Assistant",
-  },
-
-  "NLP-Based Sentiment Analysis Platform ": {
-    description: `
-    Develop a comprehensive sentiment analysis platform to process and analyze large datasets of textual content, enabling accurate sentiment classification.
-    Employed Python and libraries such as NLTK, TensorFlow, and Keras to develop the platform. Applied NLP techniques like tokenization, stemming, and lemmatization to preprocess text data and implemented machine learning models for sentiment analysis. `,
-    githubLink:
-      "https://github.com/Vimarsh07/-Sentiment-Classification-using-IMDB-Data",
-  },
-
-  "Stock Analysis using Transformer": {
+ "Stock Analysis using Transformer": {
     description: `Leveraged advanced transformer models with HuggingFace and PyTorch in Python to forecast stock trends. This project involved preprocessing and transforming large-scale financial datasets, fine-tuning transformer architectures to capture intricate temporal patterns, and implementing forecasting algorithms that boosted prediction accuracy by 15%. The insights provided helped guide timely and strategic investment decisions by highlighting emerging market trends.
       `,
     githubLink: "https://github.com/Vimarsh07/Financial-Forecasting",

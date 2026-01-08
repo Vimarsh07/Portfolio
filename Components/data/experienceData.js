@@ -2,9 +2,19 @@
 
 
 export const Data = {
+"AI Engineer at Systemart LLC": {
+  "Duration": "January 2026 - Present",
+  "points": [
+   " Analysed recruiting AI systems by examining model inference behaviour, data dependencies, and end-to-end ML pipelines to assess performance and reliability in production contexts.",
+   "Defined technical recommendations for AI agent deployment, including evaluation metrics, failure modes, and integration considerations within scalable ML systems.",
+   "Collaborated with cross-functional teams to align AI agent capabilities with business objectives, ensuring seamless integration into existing workflows and enhancing user experience.",
+   "Researched emerging trends in AI agent technologies, contributing insights on advancements in LLMs, RAG systems, and conversational AI to inform strategic development decisions."
+  ]
+},
 
- "AI Data Analyst at Dow Jones": {
-    "Duration": "January 2025 - Present",
+
+ "AI Consultant at Dow Jones": {
+    "Duration": "January 2025 - October 2025",
     "points": [
       "Developed and optimized advanced BigQuery SQL queries (nested data, CTEs, window functions) to surface key insights from large-scale datasets (8M+ records), directly influencing AI and product initiatives.",
       "Automated data transfer pipelines between BigQuery and AWS S3 via Python scripts, establishing audit-ready data flows and reducing processing time by over 30%.",
@@ -12,7 +22,7 @@ export const Data = {
       "Created real-time reporting dashboards in Google Sheets using custom formulas and linked data sources, empowering cross-functional teams with self-serve data access and faster decision-cycles."
     ]
   },
-  "Data Scientist at Kauffman Holdings L.L.C": {
+  "AI Engineer at Kauffman Holdings L.L.C": {
     "Duration": "December 2023 - December 2024",
     "points": [
       "Engineered ML-driven pricing and forecasting systems (PyTorch, TensorFlow) that delivered a 10% improvement in margins and a 12% increase in forecast accuracy, reducing overstock and understock scenarios.",
@@ -30,7 +40,7 @@ export const Data = {
       "Set up end-to-end MLOps pipelines (Docker, MLflow, GitHub Actions) for continuous training, testing, and deployment, ensuring reproducibility, scalability, and rapid iteration."
     ]
   },
-  "Machine Learning Engineer at Blackwins Tech Solution": {
+  "Founding AI Software Engineer at Blackwins Tech Solution": {
     "Duration": "May 2022 - May 2023",
     "points": [
       "Engineered ML-driven recommendation engines and fraud detection models using Python, FastAPI, and Scikit-learn, boosting client operational efficiency by 18% through intelligent automation.",

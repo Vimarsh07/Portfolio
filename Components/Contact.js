@@ -46,7 +46,7 @@ const Contact = () => {
         </div>
       </div>
       <div className="mt-44 text-black font-bold bg-yellow-100 h-16 flex justify-center items-center">
-        Copyright 2024. Vimarsh Patel. All Rights Reserved
+        Copyright 2026. Vimarsh Patel. All Rights Reserved
       </div>
     </div>
   );
