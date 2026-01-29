@@ -2,7 +2,7 @@
 
 
 export const Data = {
-"AI Engineer at Systemart LLC": {
+"AI Engineer at White Collar Technologies Inc": {
   "Duration": "January 2026 - Present",
   "points": [
    " Analysed recruiting AI systems by examining model inference behaviour, data dependencies, and end-to-end ML pipelines to assess performance and reliability in production contexts.",
